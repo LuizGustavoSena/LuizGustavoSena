@@ -1,4 +1,4 @@
-## Oiii eu sou  o Luiz Gustavo Sena, desenvolvedor de software!
+## Hi, I am Luiz Gustavo Sena, Software Developer.
 
 <div align="center">
   <a href="https://github.com/LuizGustavoSena">
